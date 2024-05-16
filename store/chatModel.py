@@ -1,7 +1,7 @@
 from openai import OpenAI
 import os
 
-os.environ["OPENAI_API_KEY"] = 'sk-proj-GSpbgGDo7ioczrt5kYk7T3BlbkFJbo6dn1P5Q8f0fRFqyZ0x'
+# os.environ["OPENAI_API_KEY"] = 
 client = OpenAI()
 
 messages = []
